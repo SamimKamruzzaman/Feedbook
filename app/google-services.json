@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077718549033",
+    "firebase_url": "https://feedbook-543d8.firebaseio.com",
+    "project_id": "feedbook-543d8",
+    "storage_bucket": "feedbook-543d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077718549033:android:928894541ee7c805a05238",
+        "android_client_info": {
+          "package_name": "com.example.feedbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077718549033-k0kcfhgbplu409t5jjvvdajc2emlc707.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feedbook",
+            "certificate_hash": "1de5f9b7fe83df856edc03041305ad2256eb6567"
+          }
+        },
+        {
+          "client_id": "1077718549033-s3bgjquraau9kd954p14orb0jq467n88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9wOA8CRewmviXNn3loLJyhBUAQUwN2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077718549033-s3bgjquraau9kd954p14orb0jq467n88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
